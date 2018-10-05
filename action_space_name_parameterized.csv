@@ -1,0 +1,15 @@
+actuator_name,index
+1.a) ramp up time: the time it takes for the actuator to fade to its maximum value,0
+1.b) hold time: the time it that the actuator holds at the maximum value,1
+1.c) ramp down time: the time it takes for the actuator to fade to 0,2
+1.d) maximum brightness,3
+2) the time gap between the moth starting to fade and the protocell starting to fade,4
+3) time between activation of each SMA arm on breathing pore,5
+4) time between activation of each breathing pore,6
+5a) minimum time to wait before activating background behaviour,7
+5b) maximum time to wait before activating background behaviour,8
+6a) time to wait before trying to pick an actuator,9
+6b) probability of successfully choosing an actuator,10
+7) time between choosing SMA to actuate,11
+8a) minimum time to wait before performing sweep,12
+8b) maximum time to wait before performing sweep,13
